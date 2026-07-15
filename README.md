@@ -10,4 +10,6 @@ using rest APIs
 
 This is the live demo: https://smart-classroom-assist.netlify.app/
 
+Watch Yt Video: https://www.youtube.com/watch?v=qXH5mKnOqjM
+
 View in mobile to get a better experience
